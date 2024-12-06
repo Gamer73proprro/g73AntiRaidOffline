@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "g73AntiRaidOffline", "g73AntiRaidOffline.csproj", "{99CCBDC9-4C48-4D30-A0B7-D6F6032C5C73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99CCBDC9-4C48-4D30-A0B7-D6F6032C5C73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99CCBDC9-4C48-4D30-A0B7-D6F6032C5C73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99CCBDC9-4C48-4D30-A0B7-D6F6032C5C73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99CCBDC9-4C48-4D30-A0B7-D6F6032C5C73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEC4D15B-C6DC-4E31-A626-075C41E63E0B}
+	EndGlobalSection
+EndGlobal
